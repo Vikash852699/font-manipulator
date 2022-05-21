@@ -1,0 +1,27 @@
+.heading{
+font-size: 25px;
+width:100%;
+margin:0px;
+box-shadow: 12px 12px 15px rgb(21, 221, 161) ;
+}
+
+.note{
+color: black;
+font-size: 16px;
+}
+
+.copyRightFooter{
+    bottom: 0;
+    position:fixed;
+    width: 100%;
+    background-color: darkgray;
+    text-align: center;
+    color: whitesmoke;
+    line-height: 3;
+    }
+
+    canvas{
+        border: 5px ridge goldenrod;
+        border-radius: 5px;
+        box-shadow: 5px 5px 5px crimson;
+        }
